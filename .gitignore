@@ -1,0 +1,13 @@
+# Server
+.env
+node_modules/
+dist/
+.DS_Store
+
+# Frontend
+frontend/dist
+frontend/node_modules/
+
+# Contracts
+contracts/target/
+contracts/Cargo.lock
